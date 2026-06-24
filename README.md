@@ -3,7 +3,7 @@
 Supplementary audio for the master thesis (TMA4900, NTNU, Department of Mathematical Sciences).
 Author: Håvard Fossdal. June 2026.
 
-**Browse the clips here:** https://USERNAME.github.io/REPO/
+**Browse the clips here:** https://hfossdal.github.io/time-stretch-listening/
 
 The page lets you play the same held-out clip through every compared method and filter by domain
 (speech or music) and by case (controlled 1×, stretch 0.75×, stretch 0.50×). Only one clip plays at
