@@ -57,3 +57,18 @@ The script reads every subfolder of `audio/`, maps filenames to method labels, a
 Speech clips come from EARS, LibriTTS, and VCTK. Music clips come from MUSDB18-HQ mixtures. Where a
 dataset license does not allow redistributing the original audio, the source identifiers and the
 generation commands are recorded instead of the raw files.
+
+## Music attribution
+
+Music examples are modified excerpts from MUSDB18-HQ tracks whose licences permit non-commercial
+redistribution with attribution and share-alike terms:
+
+- The Easton Ellises (Baumi) — SDRNR, CC BY-NC-SA 3.0
+- The Easton Ellises — Falcon 69, CC BY-NC-SA 3.0
+- A Classic Education — NightOwl, CC BY-NC-SA
+
+The excerpts were processed by the time-stretching and neural-refinement methods described in the
+thesis. The original artists do not endorse these processed versions.
+
+Sources: [SigSep MUSDB track list](https://raw.githubusercontent.com/sigsep/website/master/content/datasets/assets/tracklist.csv)
+and [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).

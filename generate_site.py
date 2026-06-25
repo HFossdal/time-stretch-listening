@@ -308,6 +308,16 @@ def build_html(examples, audio_dir_name):
     <p class="foot-src">Speech material from EARS, LibriTTS, and VCTK. Music material from
       MUSDB18-HQ. Waveforms reconstructed with BigVGAN for the mel-domain routes and with inverse
       STFT for the complex-STFT route.</p>
+    <p class="foot-src" style="margin-top:14px;">Music examples are modified excerpts from
+      MUSDB18-HQ tracks whose licences permit non-commercial redistribution with attribution and
+      share-alike terms:
+      <em>The Easton Ellises (Baumi) &mdash; SDRNR</em> (CC&nbsp;BY-NC-SA&nbsp;3.0),
+      <em>The Easton Ellises &mdash; Falcon 69</em> (CC&nbsp;BY-NC-SA&nbsp;3.0), and
+      <em>A Classic Education &mdash; NightOwl</em> (CC&nbsp;BY-NC-SA).
+      The excerpts were processed by the time-stretching and neural-refinement methods described in
+      the thesis; the original artists do not endorse these processed versions. Track list via
+      <a href="https://github.com/sigsep/website/blob/master/content/datasets/assets/tracklist.csv">SigSep MUSDB</a>;
+      licence terms at <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>.</p>
   </div>
 </footer>
 
