@@ -1,4 +1,4 @@
-# Listening examples: Neural Refinement of Time-Frequency Representations for Audio Time-Stretching
+# Listening examples: Neural Refinement of Interpolated Time-Frequency Representations for Audio Time-Stretching
 
 Supplementary audio for the master thesis (TMA4900, NTNU, Department of Mathematical Sciences).
 Author: Håvard Fossdal. June 2026.
